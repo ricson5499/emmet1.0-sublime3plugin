@@ -1,7 +1,7 @@
 # emmet 1.0 Sublime Text 3 plugin
 Including previous emmet 1.0 stable version plugin for Sublime Text 3 and teaching how to revert all corrupt version back to normal
 
-*Important, this emmet version is only try help fix those user that have problem on sublime (snippet corrupted, shortcut no working, dun wish to update)
+*Important, this emmet version is only try to help those user that have problem to use emmet function on sublime text 3 (snippet corrupted, shortcut no working, dun wish to update)
 For the rest please try to use the new emmet version.
 
 ## 1. Disable auto upgrade for emmet
