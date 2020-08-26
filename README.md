@@ -10,8 +10,8 @@ Includ this code
 
 `{
 "auto_upgrade_ignore": [
-		"Emmet",
-		"Emmet Css Snippets"
+	"Emmet",
+	"Emmet Css Snippets"
 	]
 }`
   
@@ -71,8 +71,7 @@ new one for you to compare.
                 "myhtml": "main.my-html>section"
             }
         },
-
-        "stylesheet": {
+	"stylesheet": {
             "snippets": {
                 "foo": "foo-bar"
             },
