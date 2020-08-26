@@ -105,6 +105,8 @@ new one for you to compare.
 }
 ```
 
+For my experience, once you update your snippet and reload the sublime text 3, the structure may change, will include some more value there. So becareful on the open and close bracket.
+
 ## 3. Fix key binding
 
 If you haven't add in the new binding, then it should work. If not, just remove it.
