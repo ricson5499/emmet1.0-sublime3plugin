@@ -44,7 +44,7 @@ remember to put a coma if there habve a exisiting element before this. eg.
 	]
 }`
 
-For how to recover snippet to old version
+2. For how to recover snippet to old version
 
 Preferences -> Package Settings -> Emmet -> Setting - User
 
@@ -92,7 +92,7 @@ new one for you to compare.
     }
 }`
 
-for key binding, if you haven add in the new binding, then it should work. If not, just remove it.
+3. For key binding, if you haven add in the new binding, then it should work. If not, just remove it.
 
 Preferences -> Key Bindings
 `
