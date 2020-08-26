@@ -54,7 +54,7 @@ remember to put a coma if there have a exisiting element before this. eg.
 
 
 ## 2. Recover snippet to old version
-===
+
 Preferences -> Package Settings -> Emmet -> Setting - User
 
 The old Emmet.sublime-settings structure
@@ -106,7 +106,7 @@ new one for you to compare.
 ```
 
 ## 3. Fix key binding
-==
+
 If you haven't add in the new binding, then it should work. If not, just remove it.
 
 Preferences -> Key Bindings
