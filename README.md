@@ -129,4 +129,4 @@ After that, replace emmet package, before replace this you can init a repo there
 
 My portable sublime text 3 is under H:\Sublime Text Build 3211 x64\Data\Installed Packages\
 
-*At last, please, try to backup the file before replacing, i will not promise this will fix your issue. :D
+*At last, please, try to backup all the sublime text file before replacing, i will not promise this will fix your issue. :D
