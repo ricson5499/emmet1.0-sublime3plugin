@@ -12,9 +12,9 @@ Include this code
 
 ```
 {
-"auto_upgrade_ignore": [
-	"Emmet",
-	"Emmet Css Snippets"
+	"auto_upgrade_ignore": [
+		"Emmet",
+		"Emmet Css Snippets"
 	]
 }
 ```
