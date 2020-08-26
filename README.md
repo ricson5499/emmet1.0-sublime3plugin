@@ -55,6 +55,8 @@ remember to put a coma if there have a exisiting element before this. eg.
 
 ## 2. Recover snippet to old version
 
+If you never add in any custom snippet you can just skip to 3rd step.
+
 Preferences -> Package Settings -> Emmet -> Setting - User
 
 The old Emmet.sublime-settings structure
