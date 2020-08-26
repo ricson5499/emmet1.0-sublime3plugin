@@ -4,7 +4,9 @@ Including previous emmet 1.0 stable version plugin for Sublime Text 3 and teachi
 *Important, this emmet version is only try help fix those user that have problem on sublime (snippet corrupted, shortcut no working, dun wish to update)
 For the rest please try to use the new emmet version.
 
-## 1. Open Package Control.sublime-settings from
+## 1. Disable auto upgrade for emmet
+
+Open Package Control.sublime-settings from
 
 Preferences -> Package Setting -> Package Control -> Setting - User
 
@@ -50,7 +52,7 @@ remember to put a coma if there have a exisiting element before this. eg.
 
 
 
-## 2. For how to recover snippet to old version
+## 2. Recover snippet to old version
 ===
 Preferences -> Package Settings -> Emmet -> Setting - User
 
@@ -102,7 +104,7 @@ new one for you to compare.
 }
 ```
 
-## 3. For key binding
+## 3. Fix key binding
 ==
 If you haven't add in the new binding, then it should work. If not, just remove it.
 
