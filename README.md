@@ -10,12 +10,14 @@ Preferences -> Package Setting -> Package Control -> Setting - User
 
 Include this code
 
-```{
+```
+{
 "auto_upgrade_ignore": [
 	"Emmet",
 	"Emmet Css Snippets"
 	]
-}```
+}
+```
   
 remember to put a coma if there habve a exisiting element before this. eg.
 
