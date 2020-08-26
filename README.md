@@ -21,7 +21,8 @@ Include this code
   
 remember to put a coma if there habve a exisiting element before this. eg.
 
-```{
+```
+{
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -44,7 +45,8 @@ remember to put a coma if there habve a exisiting element before this. eg.
 		"Emmet",
 		"Emmet Css Snippets"
 	]
-}```
+}
+```
 
 2. For how to recover snippet to old version
 
@@ -52,18 +54,21 @@ Preferences -> Package Settings -> Emmet -> Setting - User
 
 The old Emmet.sublime-settings structure
 
-```{
+```
+{
 	"snippets": {	
 		"html": {
 			"snippets": {},
 			"abbreviations": {}
 		}
 	}
-}```
+}
+```
 
 new one for you to compare.
 
-```{
+```
+{
     "config": {
         "markup": {
             "snippets": {
@@ -92,16 +97,19 @@ new one for you to compare.
             }
         }
     }
-}```
+}
+```
 
 3. For key binding, if you haven add in the new binding, then it should work. If not, just remove it.
 
 Preferences -> Key Bindings
+
 ```
 e.g.
 ctrl+e
 ctrl+alt+enter
 ```
+
 from your User keymap if you just recently added for the new version.
 
 After that, replace emmet package, before replace this you can init a repo there to keep all the file version, so next time when you want to revert anything you can do the same way.
