@@ -4,8 +4,8 @@ Including previous emmet 1.0 stable version plugin for Sublime Text 3 and teachi
 *Important, this emmet version is only try help fix those user that have problem on sublime (snippet corrupted, shortcut no working, dun wish to update)
 For the rest please try to use the new emmet version.
 
-1. Open Package Control.sublime-settings from
-===
+## 1. Open Package Control.sublime-settings from
+
 Preferences -> Package Setting -> Package Control -> Setting - User
 
 Include this code
@@ -50,7 +50,7 @@ remember to put a coma if there have a exisiting element before this. eg.
 
 
 
-2. For how to recover snippet to old version
+## 2. For how to recover snippet to old version
 ===
 Preferences -> Package Settings -> Emmet -> Setting - User
 
@@ -102,7 +102,7 @@ new one for you to compare.
 }
 ```
 
-3. For key binding
+## 3. For key binding
 ==
 If you haven't add in the new binding, then it should work. If not, just remove it.
 
@@ -116,7 +116,7 @@ ctrl+alt+enter
 
 from your User keymap if you just recently added for the new version.
 
-4. Replace Emmet package
+## 4. Replace Emmet package
 
 After that, replace emmet package, before replace this you can init a repo there to keep all the file version, so next time when you want to revert anything you can do the same way.
 
