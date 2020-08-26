@@ -111,7 +111,7 @@ For my experience, if you updated your snippet to new structure before, and relo
 
 ## 3. Fix key binding
 
-If you haven't add in the new binding, then it should work. If not, just remove it.
+If you haven't add in any new key for new emmet version, then the shortcut key should still work, you can go to step 4. If not, you need remove it.
 
 Preferences -> Key Bindings
 
