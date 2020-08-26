@@ -19,7 +19,7 @@ Include this code
 }
 ```
   
-remember to put a coma if there habve a exisiting element before this. eg.
+remember to put a coma if there have a exisiting element before this. eg.
 
 ```
 {
